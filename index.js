@@ -20,9 +20,9 @@ const instagram = '@arieff_westa';
 const aktif = 'Kapan bot aktif';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Arief Westa\n' // Nama kamu
-            + 'ORG:ZxCode Bot;\n' // Nama bot
-            + 'TEL;type=CELL;type=VOICE;waid=62895600555028:+62 895-6005-55028\n' //Nomor whatsapp kamu
+            + 'FN:Zul\n' // Nama kamu
+            + 'ORG:Kintil;\n' // Nama bot
+            + 'TEL;type=CELL;type=VOICE;waid=6281396461615:+62 813-9646-1615\n' //Nomor whatsapp kamu
             + 'END:VCARD'
 const
 {
